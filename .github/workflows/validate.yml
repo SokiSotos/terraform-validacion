@@ -1,4 +1,4 @@
-name: Validar Terraform
+name: Terraform Validate
 
 on: [push]
 
